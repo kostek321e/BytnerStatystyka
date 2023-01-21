@@ -1,0 +1,21 @@
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\bin\Debug\net6.0-windows\ZADANIE 1.exe
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\bin\Debug\net6.0-windows\ZADANIE 1.deps.json
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\bin\Debug\net6.0-windows\ZADANIE 1.runtimeconfig.json
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\bin\Debug\net6.0-windows\ZADANIE 1.dll
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\bin\Debug\net6.0-windows\ZADANIE 1.pdb
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.csproj.AssemblyReference.cache
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1_MarkupCompile.cache
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1_MarkupCompile.lref
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.g.resources
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.AssemblyInfoInputs.cache
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.AssemblyInfo.cs
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.csproj.CoreCompileInputs.cache
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.dll
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\refint\ZADANIE 1.dll
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.pdb
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ZADANIE 1.genruntimeconfig.cache
+C:\Users\koste\OneDrive\Pulpit\aplikacje bytner\ZADANIE 1\ZADANIE 1\obj\Debug\net6.0-windows\ref\ZADANIE 1.dll
